@@ -41,21 +41,6 @@
 #include <opencv2/rgbd.hpp>
 #include <opencv2/viz.hpp>
 
-////Dependencies
-////C:\Program Files (x86)\PCL 1.7.2\3rdParty\VTK\lib\vtk-5.10;
-////C:\Program Files (x86)\PCL 1.7.2\3rdParty\VTK\include\vtk-5.10;
-//#include <opencv_vtk_lib.hpp>
-//#include <opencv2/viz/widget_accessor.hpp>
-
-//#include <vtkPoints.h>
-//#include <vtkTriangle.h>
-//#include <vtkCellArray.h>
-//#include <vtkPolyData.h>
-//#include <vtkPolyDataMapper.h>
-//#include <vtkIdList.h>
-//#include <vtkActor.h>
-//#include <vtkProp.h>
-
 #include <iostream>
 #include <fstream>
 
